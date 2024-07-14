@@ -1,2 +1,4 @@
-3a
-https://github.com/martonzs/HiltiSyncPro/tree/main/releases/Updates
+[Update]
+Version=3a
+URL=https://github.com/martonzs/HiltiSyncPro/edit/main/releases/Updates/HiltiSyncPro3a-Setup.exe
+Description=This update includes several bug fixes and performance improvements.
