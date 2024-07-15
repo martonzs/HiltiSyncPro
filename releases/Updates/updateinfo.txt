@@ -1,4 +1,4 @@
 [Update]
 Version=3a
-URL=https://github.com/martonzs/HiltiSyncPro/upload/main/releases/Updates/HiltiSyncPro3a - Update.exe
+URL=https://github.com/martonzs/HiltiSyncPro/upload/main/releases/Updates/HiltiSyncPro3a/HiltiSync Pro 3a-minimalist Update.exe
 Description=This update includes several bug fixes and performance improvements.
